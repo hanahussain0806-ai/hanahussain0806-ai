@@ -1,15 +1,15 @@
-# Hi there, I'm Hana Hussain 👋 
+# Hi there, I'm Hana Hussain  
 
 ### M.Sc. Computer Science (AI & ML) Graduate | AI/ML Systems Engineer
 I bridge the gap between advanced deep learning research and scalable, production-ready full-stack software. Currently building autonomous AI workflows within the T-Hub innovation ecosystem.
 
-- 💡 **Patent Holder:** Architected an innovative real-time computer vision assistive navigation framework.
-- 🛠️ **Current Focus:** Large Language Model (LLM) orchestration, autonomous agents, and end-to-end computer vision systems.
-- 📍 **Location:** Hyderabad, India (Open to full-time global opportunities)
+-  **Patent Holder:** Architected an innovative real-time computer vision assistive navigation framework.
+-  **Current Focus:** Large Language Model (LLM) orchestration, autonomous agents, and end-to-end computer vision systems.
+-  **Location:** Hyderabad, India (Open to full-time global opportunities)
 
 ---
 
-### ⚡ Core Technical Stack
+###  Core Technical Stack
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
@@ -21,23 +21,23 @@ I bridge the gap between advanced deep learning research and scalable, productio
 
 ---
 
-### 📂 Featured Engineering Showcases (Proprietary Code Secured)
+###  Featured Engineering Showcases (Proprietary Code Secured)
 *Note: To protect intellectual property and corporate privacy, the source code for the projects below is maintained in secure, private repositories. Detailed architectural documentation, system designs, and production workflows are provided below.*
 
-#### 🚀 [GuideWay AI — Assistive Navigation System](https://github.com/YOUR_USERNAME/GuideWay-AI)
+####  [GuideWay AI — Assistive Navigation System](https://github.com/YOUR_USERNAME/GuideWay-AI)
 * **Domain:** Computer Vision & Monocular Depth Estimation
 * Deployed YOLOv8 and MiDaS deep learning pipelines via Python multithreading to calculate object proximity for visually impaired individuals. **[Indian Patent Published]**
 
-#### 💬 [ConvoIQ — Sentiment Intelligence Platform](https://github.com/YOUR_USERNAME/ConvoIQ)
+####  [ConvoIQ — Sentiment Intelligence Platform](https://github.com/YOUR_USERNAME/ConvoIQ)
 * **Domain:** NLP & Full-Stack Dashboarding
 * Built a high-performance Next.js/React enterprise interface displaying sentiment data extracted via specialized language processing pipelines.
 
-#### 🤖 [CafeBot AI — Context-Aware Digital Concierge](https://github.com/YOUR_USERNAME/CafeBot-AI)
+####  [CafeBot AI — Context-Aware Digital Concierge](https://github.com/YOUR_USERNAME/CafeBot-AI)
 * **Domain:** Retrieval-Augmented Generation (RAG) & Conversational AI
 * Integrated Llama 3.3 via Groq API and FastAPI, utilizing HuggingFace embeddings and local FAISS vector stores to eliminate AI hallucinations.
 
 ---
 
-### 📊 Let's Connect!
+###  Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/hana-hussain-50b64a355
 - **Email:** hanahussain0806@gmail.com
