@@ -39,5 +39,5 @@ I bridge the gap between advanced deep learning research and scalable, productio
 ---
 
 ###  Let's Connect!
-- **LinkedIn:** www.linkedin.com/in/hana-hussain-50b64a355
+- **LinkedIn:** www.linkedin.com/in/hanahussain0806-ai
 - **Email:** hanahussain0806@gmail.com
